@@ -26,15 +26,20 @@ A aplicação permite interação em linguagem natural com o usuário através d
 
 1. Clone o repositório
 
-git clone LINK_DO_REPOSITORIO
+´´´
+git clone [https://github.com/Keity-bj/assistente-financeiro-ia]
+´´´
 
 2. Acesse a pasta
 
+´´´
 cd assistente-financeiro-ia
+´´´
 
 3. Execute o programa
 
-python main.py
+´´´python main.py
+´´´
 
 ## 📚 Autor
 
