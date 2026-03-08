@@ -1,46 +1,57 @@
 # 💰 Assistente Financeiro com IA
 
-Projeto desenvolvido para o desafio da DIO.
+Projeto desenvolvido como parte de um desafio da **DIO (Digital Innovation One)**.
+
+---
 
 ## 📌 Descrição
 
-Este projeto simula um assistente financeiro inteligente capaz de responder dúvidas financeiras e realizar simulações de investimento utilizando juros compostos.
+Este projeto simula um **assistente financeiro inteligente** capaz de responder dúvidas financeiras e realizar **simulações de investimento utilizando juros compostos**.
 
-A aplicação permite interação em linguagem natural com o usuário através do terminal.
+A aplicação permite uma interação simples com o usuário através do **terminal**, utilizando lógica de programação para interpretar perguntas e fornecer respostas relacionadas a conceitos financeiros.
+
+---
 
 ## 🚀 Funcionalidades
 
-* Responder perguntas financeiras
-* Explicar conceitos como CDB e juros
-* Simular investimentos com juros compostos
-* Salvar histórico das perguntas do usuário
+* 💬 Responder perguntas financeiras
+* 📚 Explicar conceitos como **CDB** e **juros**
+* 📈 Simular investimentos com **juros compostos**
+* 📝 Salvar o **histórico de perguntas do usuário**
 
-## 🛠 Tecnologias utilizadas
+---
+
+## 🛠 Tecnologias Utilizadas
 
 * Python
 * Lógica de programação
-* Estruturas condicionais
+* Estruturas condicionais (`if`, `elif`, `else`)
 * Manipulação de arquivos
 
-## ▶ Como executar o projeto
+---
 
-1. Clone o repositório
+## ▶ Como Executar o Projeto
 
-´´´
-git clone [https://github.com/Keity-bj/assistente-financeiro-ia]
-´´´
+### 1️⃣ Clonar o repositório
 
-2. Acesse a pasta
+```
+git clone https://github.com/Keity-bj/assistente-financeiro-ia.git
+```
 
-´´´
+### 2️⃣ Acessar a pasta do projeto
+
+```
 cd assistente-financeiro-ia
-´´´
+```
 
-3. Execute o programa
+### 3️⃣ Executar o programa
 
-´´´python main.py
-´´´
+```
+python main.py
+```
+
+---
 
 ## 📚 Autor
 
-Projeto desenvolvido como parte dos desafios da DIO.
+Projeto desenvolvido por **Keity Manuelly** como parte dos desafios da plataforma **DIO**.
